@@ -98,5 +98,5 @@ This project is open-source and free to use under the **MIT License**.
 
 ## 🔗 Connect
 
-- GitHub: [YourGitHubProfile](https://github.com/YourUsername)  
+- GitHub:(https://surya63023.github.io/fifth-html-world-of-knowledge/) 
 - Portfolio/Website: (https://github.com/Surya63023)
